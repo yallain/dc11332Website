@@ -5,6 +5,6 @@
 #### Talk 1 (english) : Zero to ASIC : democratising silicon by @matthewvenn
 #### Talk 2 (French)  : Devenir son propre opérateur by @AtaxyaNetwork 
 
-### To register go HERE
+### To register go HERE (soon ;-) 
 
 ## to contact us @dc11332.org 
