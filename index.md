@@ -15,4 +15,4 @@ According to  *FOSSI Foundation*, until today there were two major obstacles to 
 
 ### To register go HERE (soon ;-) 
 
-## to contact us  : twitter @dc11332.org 
+## to contact us  : twitter @dc11332 
