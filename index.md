@@ -8,7 +8,7 @@
 
 According to  *FOSSI Foundation*, until today there were two major obstacles to creating custom chips. This is because you had to have access to a PDK from a chip manufacturing company (a foundry), and you also had to have enough money to actually pay for the manufacturing. But now, thanks to this initiative, those days are over. And what sets this PDK apart from previous attempts is the fact that it is manufacturable. Thanks to it, you can actually produce chips with a foundry in the 130nm node ! 
 
-- #### Talk 2 (French)  : Comment je suis devenu mon propre opérateur internet - @AtaxyaNetwork 
+- #### Talk 2 (French)  : Comment je suis devenue mon propre opérateur internet - @AtaxyaNetwork 
 
 **Un Autonomous System (AS),  chez soi ? C'est possible !** On m'a très souvent posé la question de comment j'ai pu avoir un AS(208069) et des IPv6 pour ma Server Room. Aujourd'hui on va donc parler de routage (BGP), d'AS et d'IP. C'est parti !
 
