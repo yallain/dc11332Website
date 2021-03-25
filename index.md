@@ -4,11 +4,13 @@
 
 - #### Talk 1 (English) : Zero to ASIC : democratising silicon - @matthewvenn
 
-##### If you've dreamed of making your own chip, some have just released a PDK (a process design kit) and related resources that should allow you to do just that. The PDK is an Open Source PDK and helps you build a physical, manufacturable chip that does exactly what you designed it to do. (no risk of backdoors ? or create your own NSA like implant inside the chips ! ). This PDK is the premier open source manufacturing process design kit. Here is what it is about.  According to FOSSI Foundation, until today there were two major obstacles to creating custom chips. This is because you had to have access to a PDK from a chip manufacturing company (a foundry), and you also had to have enough money to actually pay for the manufacturing. But now, thanks to this initiative, those days are over. And what sets this PDK apart from previous attempts is the fact that it is manufacturable. Thanks to it, you can actually produce chips with a foundry in the 130nm node ! 
+**If you've dreamed of making your own chip**, some have just released a PDK (a process design kit) and related resources that should allow you to do just that. The PDK is an Open Source PDK and helps you **build a physical, manufacturable chip that does exactly what you designed it to do** with **no risk of backdoors**  or *ability to create your own NSA like implant inside the chips !* ). This PDK is the premier open source manufacturing process design kit. 
+
+According to  _Italic_FOSSI Foundation _Italic_ , until today there were two major obstacles to creating custom chips. This is because you had to have access to a PDK from a chip manufacturing company (a foundry), and you also had to have enough money to actually pay for the manufacturing. But now, thanks to this initiative, those days are over. And what sets this PDK apart from previous attempts is the fact that it is manufacturable. Thanks to it, you can actually produce chips with a foundry in the 130nm node ! 
 
 - #### Talk 2 (French)  : Comment je suis devenu mon propre opérateur internet - @AtaxyaNetwork 
 
-##### Un AS chez soi ? C'est possible ! On m'a très souvent posé la question de comment j'ai pu avoir un AS(208069) et des IPv6 pour ma Server Room. Aujourd'hui on va donc parler de routage (BGP), d'AS et d'IP. C'est parti !
+**Un Autonomous System (AS),  chez soi ? C'est possible !** On m'a très souvent posé la question de comment j'ai pu avoir un AS(208069) et des IPv6 pour ma Server Room. Aujourd'hui on va donc parler de routage (BGP), d'AS et d'IP. C'est parti !
 
 
 ### To register go HERE (soon ;-) 
