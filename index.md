@@ -15,6 +15,6 @@ According to  *FOSSI Foundation*, until today there were two major obstacles to 
 **Un Autonomous System (AS),  chez soi ? C'est possible !** On m'a très souvent posé la question de comment j'ai pu avoir un AS(208069) et des IPv6 pour ma Server Room. Aujourd'hui on va donc parler de routage (BGP), d'AS et d'IP. C'est parti !
 
 
-### To register go [Link] https://us02web.zoom.us/webinar/register/WN_ugRZCmNeRoSsMUTUZ7rIBA
+### To register go [Link](https://us02web.zoom.us/webinar/register/WN_ugRZCmNeRoSsMUTUZ7rIBA)
 
 ## to contact us  : twitter @dc11332 
