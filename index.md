@@ -2,7 +2,7 @@
 
 ### Next meeting : April 15 from 2 p.m. to 4 p.m. - France Time - (Zoom meeting due to COVID19!)
 
-### [To register - It's FREE ! ](https://us02web.zoom.us/webinar/register/WN_ugRZCmNeRoSsMUTUZ7rIBA)
+### [To participate, you only need to register here - It's FREE ! ](https://us02web.zoom.us/webinar/register/WN_ugRZCmNeRoSsMUTUZ7rIBA)
 
 - #### Talk 1 (English) : Zero to ASIC : democratising silicon - @matthewvenn
 
@@ -17,6 +17,6 @@ According to  *FOSSI Foundation*, until today there were two major obstacles to 
 **Un Autonomous System (AS),  chez soi ? C'est possible !** On m'a très souvent posé la question de comment j'ai pu avoir un AS(208069) et des IPv6 pour ma Server Room. Aujourd'hui on va donc parler de routage (BGP), d'AS et d'IP. C'est parti !
 
 
-### [To register - It's FREE ! ](https://us02web.zoom.us/webinar/register/WN_ugRZCmNeRoSsMUTUZ7rIBA)
+### [To participate, you only need to register here - It's FREE ! ](https://us02web.zoom.us/webinar/register/WN_ugRZCmNeRoSsMUTUZ7rIBA)
 
 ## to contact us  : twitter @dc11332 
