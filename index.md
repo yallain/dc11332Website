@@ -2,6 +2,8 @@
 
 ### Next meeting : April 15 from 2 p.m. to 4 p.m. - France Time - (Zoom meeting due to COVID19!)
 
+### [To register - It's FREE ! ](https://us02web.zoom.us/webinar/register/WN_ugRZCmNeRoSsMUTUZ7rIBA)
+
 - #### Talk 1 (English) : Zero to ASIC : democratising silicon - @matthewvenn
 
 **If you've dreamed of making your own chip**, some have just released a PDK (a process design kit) and related resources that should allow you to do just that. The Open Source PDK helps you **build a physical, manufacturable chip that does exactly what you designed it to do** with **no risk of backdoors**  or **ability to create your own NSA like implant inside the chips but @ silicon layer ! ;-)**  This PDK is the first open source manufacturing process design kit. 
