@@ -1,8 +1,30 @@
 ## Welcome to Defcon group DC11332 (West of France)
 
-### Next meeting : April 15 from 2 p.m. to 4 p.m. - France Time - (Zoom meeting due to COVID19!)
+### Next meeting : Jun 15 from 11 a.m. to 1 p.m. - France Time - (Zoom meeting due to COVID19!)
 
 ### [To participate, you only need to register here - It's FREE ! ](https://us02web.zoom.us/webinar/register/WN_ugRZCmNeRoSsMUTUZ7rIBA)
+
+- #### Talk 1 (English) : INSIDE ARM-X - @therealsaumil
+
+The closest you will get to a VM for testing IoT devices. The ARM-X IoT Firmware Emulation Framework is a tried-and-tested framework which has led to four 0-days discovered on SoHo routers, IP cameras and VoIP exchanges. In this talk, I shall cover the evolution of ARM-X, demonstrate a few use cases and discuss future directions of IoT firmware emulation. The talk will conclude with a new dockerized version of ARM-X and features I am working on.
+
+- #### Talk 2 (English)  : Breaking Encrypted Secure Boot. The Raelize Way -  @tieknimmers & @pulsoid
+ 
+Secure devices support Secure Boot in order to assure the integrity and confidentiality of the software that's executed. Even if the authentication is bypassed, the decryption still prevents an attacker from easily executing arbitrary code as the decryption key is not known.
+
+In this presentation we explain how we were able to bypass the Encrypted Secure Boot feature of the ESP32 SoC using a single EM glitch. This allowed us to extract the plain-text contents of the external flash without using any software vulnerability and without knowledge of the decryption key.
+
+
+### [To participate, you only need to register here - It's FREE ! ](https://us02web.zoom.us/webinar/register/WN_ugRZCmNeRoSsMUTUZ7rIBA)
+
+## to contact us  : twitter @dc11332 
+
+
+
+
+## Past meetings
+
+April 15 
 
 - #### Talk 1 (English) : Zero to ASIC : democratising silicon - @matthewvenn
 
@@ -17,6 +39,3 @@ According to  *FOSSI Foundation*, until today there were two major obstacles to 
 **Un Autonomous System (AS),  chez soi ? C'est possible !** On m'a très souvent posé la question de comment j'ai pu avoir un AS(208069) et des IPv6 pour ma Server Room. Aujourd'hui on va donc parler de routage (BGP), d'AS et d'IP. C'est parti !
 
 
-### [To participate, you only need to register here - It's FREE ! ](https://us02web.zoom.us/webinar/register/WN_ugRZCmNeRoSsMUTUZ7rIBA)
-
-## to contact us  : twitter @dc11332 
