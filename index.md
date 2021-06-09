@@ -2,7 +2,7 @@
 
 ### Next meeting : Jun 15 from 11 a.m. to 1 p.m. - France Time - (Zoom meeting due to COVID19!)
 
-### [To participate, you only need to register here - It's FREE ! ](https://us02web.zoom.us/webinar/register/WN_ugRZCmNeRoSsMUTUZ7rIBA)
+### [To participate, you only need to register here - It's FREE ! ](https://us02web.zoom.us/webinar/register/WN_tDCLQB8xSrOEfzQ3lsI_Qg)
 
 - #### Talk 1 (English) : INSIDE ARM-X - @therealsaumil
 
@@ -15,7 +15,7 @@ Secure devices support Secure Boot in order to assure the integrity and confiden
 In this presentation we explain how we were able to bypass the Encrypted Secure Boot feature of the ESP32 SoC using a single EM glitch. This allowed us to extract the plain-text contents of the external flash without using any software vulnerability and without knowledge of the decryption key.
 
 
-### [To participate, you only need to register here - It's FREE ! ](https://us02web.zoom.us/webinar/register/WN_ugRZCmNeRoSsMUTUZ7rIBA)
+### [To participate, you only need to register here - It's FREE ! ](https://us02web.zoom.us/webinar/register/WN_tDCLQB8xSrOEfzQ3lsI_Qg)
 
 ## to contact us  : twitter @dc11332 
 
